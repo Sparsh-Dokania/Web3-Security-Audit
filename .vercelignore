@@ -1,0 +1,8 @@
+# Don't ignore the app directory
+!app/
+
+# Standard ignores
+node_modules
+.env*.local
+.vercel
+.next
